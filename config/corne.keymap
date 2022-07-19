@@ -110,6 +110,7 @@
  &mt LCTRL TAB   &kp TAB  &kp LSHIFT    &trans    &trans     &trans   &kp HOME   &kp EQUAL        &kp PG_UP   &kp END  &kp BSPC  &kp GRAVE
       &kp LALT    &trans      &trans    &trans    &trans     &trans  &kp UNDER    &kp PLUS        &kp PG_DN    &trans    &trans     &trans
                                       &kp LGUI    &trans  &kp SPACE    &kp RET  &kp LSHIFT           &trans
+            >;
         };
 
         adjust_layer {
