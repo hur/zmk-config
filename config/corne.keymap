@@ -27,7 +27,8 @@
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
-    
+    };
+      
     combos {
         compatible = "zmk,combos";
 
